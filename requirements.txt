@@ -1,0 +1,8 @@
+ctransformers==0.2.27
+sentence-transformers==3.0.1
+chromadb
+openai
+flask
+pypdf
+python-dotenv
+-e .
